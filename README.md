@@ -19,4 +19,5 @@ By understanding how re.search() functions and modifying the regular expression 
 Screenshot of final output showing which passwords failed and which passed
 
 
-![Program Output](screenshots\output_screenshot.png)
+![Program Output](screenshots/output_screenshot.png)
+
